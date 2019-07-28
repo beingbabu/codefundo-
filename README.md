@@ -5,11 +5,14 @@ So here's a little advancement over the latest EVMs.
 
 What i feel is that the latest EVM's still breach the privacy, let's say because of the person who is assisting us with the use of the machine.
 
-How about having a relevant size of a board that has **eye trackers** intsalled.
+How about having a relevant size of a board that has **eye trackers** intsalled?
 > Once a voter sets his/her eye on a particular symbol out of many symbols present on the board, let's say for 5 seconds, that particular choice will be recorded instatntly.
 > Such eye trackers will have to be very precise to capture the voter's target choice.
 
 _These eye trackers can further be integrated with the EVMs to cross check one's vision and the choice that is pressed at the time of voting. With this, the device can warn the voter if he/she has pressed the wrong choice._
+
+_The smart boards will have digital displays for displaying the symbol sets. That means a symbol set can be uploaded to the display for multiple constituencies. Thus, the voters living in a different location will be able to vote for their constituency with the smart board set accordingly, in their allotted time. The recorded data will be directed to store in respective constituency instantly._
+>The entrance to such smart boards will have biometric verification for the voters to approve their chance for voting. This will restrict voters to vote multiple times and from multiple constituencies.
 
 
 
