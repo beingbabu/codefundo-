@@ -9,7 +9,7 @@ How about having a relevant size of a board that has **eye trackers** intsalled.
 > Once a voter sets his/her eye on a particular symbol out of many symbols present on the board, let's say for 5 seconds, that particular choice will be recorded instatntly.
 > Such eye trackers will have to be very precise to capture the voter's target choice.
 
-_These eye trackers can further be integrated with the EVMs to cross check one's vision and the choice that is pressed at the time of voting. With this, the device can warn the voter if he/she has pressed the wrong choice.
+_These eye trackers can further be integrated with the EVMs to cross check one's vision and the choice that is pressed at the time of voting. With this, the device can warn the voter if he/she has pressed the wrong choice._
 
 
 
