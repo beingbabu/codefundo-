@@ -1,5 +1,5 @@
 # idea-
-Microsoft Hackathon | Secure Electronic Voting using Azure Blockchain
+*Microsoft Hackathon | Secure Electronic Voting using Azure Blockchain*
 
 So here's a little advancement over the latest EVMs. 
 
