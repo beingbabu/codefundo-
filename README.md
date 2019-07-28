@@ -14,11 +14,11 @@ These eye trackers can further be integrated with the EVMs to cross check one's 
 
 
 PROS:
-#Thus, with such smart boards, voting will become more confidential and secured, plus the voters will not have to worry about others who are around.
+>Thus, with such smart boards, voting will become more confidential and secured, plus the voters will not have to worry about others who are around.
 
-#Azure Blockchain can come handy to handle the recorded data from the boards.
+>Azure Blockchain can come handy to handle the recorded data from the boards.
 
-#Votes can be counted in real time and flashed as soon as the polling ends.
+>Votes can be counted in real time and flashed as soon as the polling ends.
 
 CONS:
-The board setup may record a false choice if the voter is having squinted eyes. For this, the setup has to be trained well to identify the right choice.
+>The board setup may record a false choice if the voter is having squinted eyes. For this, the setup has to be trained well to identify the right choice.
